@@ -1,0 +1,7 @@
+C:\Users\salad\source\repos\Textgeschichte\Textgeschichte\bin\Debug\Textgeschichte.exe.config
+C:\Users\salad\source\repos\Textgeschichte\Textgeschichte\bin\Debug\Textgeschichte.exe
+C:\Users\salad\source\repos\Textgeschichte\Textgeschichte\bin\Debug\Textgeschichte.pdb
+C:\Users\salad\source\repos\Textgeschichte\Textgeschichte\obj\Debug\Textgeschichte.csproj.CoreCompileInputs.cache
+C:\Users\salad\source\repos\Textgeschichte\Textgeschichte\obj\Debug\Textgeschichte.exe
+C:\Users\salad\source\repos\Textgeschichte\Textgeschichte\obj\Debug\Textgeschichte.pdb
+C:\Users\salad\source\repos\Textgeschichte\Textgeschichte\obj\Debug\Textgeschichte.csprojAssemblyReference.cache
