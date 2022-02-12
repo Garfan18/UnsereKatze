@@ -8,4 +8,4 @@ Es handelt sich um ein Textspiel welches mit C# programmiert wurde. In dem Progr
 Jede Szene startet mit einem Einführungstext. Dann wird man vor die Wahl gestellt und muss zwischen zwei oder mehr Optionen eine Entscheidung treffen. Je nach entscheidung kommt man in eine andere Szene weiter. Eine ist jedoch die Richtige, bei den anderen ist Game Over. 
 
 ## Local in Betrieb nehmen
-Damit man selber das Programm weiter Programieren oder Ausführen kann, wird Visual Studio 2019 empfohlen. 
+Damit man selber das Programm weiter programieren oder ausführen kann, wird Visual Studio 2019 empfohlen. 
